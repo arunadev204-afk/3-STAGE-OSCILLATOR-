@@ -1,4 +1,6 @@
 # 3-STAGE-OSCILLATOR-
+## REG NUM :
+## NAME :
 
 ## Aim: To Design CMOS 3 stage oscillator and OP analysis.
 
